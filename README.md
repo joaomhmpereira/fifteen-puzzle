@@ -14,8 +14,8 @@ java FifteenPuzzle <size> <number_of_shuffles>
 ## Example
 
 ```bash
-javac algostudy/FifteenPuzzle.java
-java algostudy.FifteenPuzzle 4 50
+javac FifteenPuzzle.java
+java FifteenPuzzle 4 50
 ```
 
 ## Notes
